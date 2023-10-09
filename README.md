@@ -8,7 +8,8 @@
 🎗️ I want to be Android & Frontend Developer!
 <br>
 
-
+[![github stats](https://github-readme-stats.vercel.app/api?username=seungwoohan12&show_icons=true&hide_border=true)](https://github.com/seungwoohan12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwoohan12&layout=compact)](https://github.com/seungwoohan12)
 
 ### 📝 Learning Tool & Skill 📝
 #### 🌍 Language
@@ -24,12 +25,8 @@
 #### ⚒️ Tool
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-8C34FB?style=flat&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF922E?style=flat&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Intel-85EA2D?style=flat&logo=Intel&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-110F66?style=flat&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio code-603384?style=flat&logo=Visual Studio code&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-89A1AF?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-FF61F6?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discode-6B30A6?style=flat&logo=Discode&logoColor=white"/> <img src="https://img.shields.io/badge/Webflow-104482?style=flat&logo=Webflow&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-ED48AB?style=flat&logo=Photoshop&logoColor=white"/> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungwoohan12)](https://hits.seeyoufarm.com)
 
 <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungwoohan12)](https://hits.seeyoufarm.com)
-[![github stats](https://github-readme-stats.vercel.app/api?username=seungwoohan12&show_icons=true&hide_border=true)](https://github.com/seungwoohan12)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwoohan12&layout=compact)](https://github.com/seungwoohan12)
-
 
 </div>

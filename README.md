@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header&text=SeungwooHan&fontSize=40)
 
 ### 🙌 Introduction
-👋 안녕하세요 성장하는 개발자 한승우입니다
+👋 안녕하세요 성장하는 개발자 한승우입니다.
 <br>
 🎓 MYONGJI UNIV. Information and Communication Engineering
 

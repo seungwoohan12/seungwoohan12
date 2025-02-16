@@ -8,7 +8,7 @@
 🎓 MYONGJI UNIV. Information and Communication Engineering.
 
 <br>
-🎗️ I want to be Android & Frontend Developer.
+🎗️ I want to be web Frontend Developer.
 <br>
 
 ### 📝 Learning Tool & Skill 📝

@@ -13,7 +13,7 @@
 
 ### 📝 Learning Tool & Skill 📝
 #### 🌍 Language
-<img src="https://img.shields.io/badge/Java-FF922E?style=flat&logo=Java(Beginner)&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript(Beginner)-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-534FFB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-276DC3?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF922E?style=flat&logo=Java(Beginner)&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript(Beginner)-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-276DC3?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-534FFB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-276DC3?style=flat&logo=C&logoColor=white"/> 
 
 
 
